@@ -34,17 +34,8 @@ CUDA Version: 12.5
 
 ================================================================
 ## The code text in the kernel.cu file
-//CString transSetFile = _T("..\\TransactionSets\\chess.txt"); int UptoStage = 30;//dimension: 75
-//CString transSetFile = _T("..\\TransactionSets\\connect.txt"); int UptoStage = 20;//dimension: 129
-//CString transSetFile = _T("..\\TransactionSets\\mushroom.txt"); int UptoStage = 50;//dimension: 119
-//CString transSetFile = _T("..\\TransactionSets\\T10I4D100K.txt"); int UptoStage = 500;//dimension: 870
-//CString transSetFile = _T("..\\TransactionSets\\retail.txt"); int UptoStage = 800;//dimension: 16470
-
 CString transSetFile = _T("..\\TransactionSets\\accidents.txt"); int UptoStage = 20;//dimension: 468
-//CString transSetFile = _T("..\\TransactionSets\\pumsb_star.txt"); int UptoStage = 52;//dimension: 2088
 //CString transSetFile = _T("..\\TransactionSets\\pumsb.txt"); int UptoStage = 20;//dimension: 2113
-//CString transSetFile = _T("..\\TransactionSets\\T40I10D100K.txt"); int UptoStage = 545;//dimension: 942
-//CString transSetFile = _T("..\\TransactionSets\\kosarak.txt"); int UptoStage = 100;//dimension: 41270
 
 ================================================================
 ## Results(output)
@@ -61,8 +52,8 @@ CString transSetFile = _T("..\\TransactionSets\\accidents.txt"); int UptoStage =
 
 ================================================================
 ## Opening
-SustainableMining.sln
-
+xxx.sln
+(Please switch to the "Release" mode for operation to achieve quick results.)
 ================================================================
 ## Citation
 If you use this code, please cite our paper:
