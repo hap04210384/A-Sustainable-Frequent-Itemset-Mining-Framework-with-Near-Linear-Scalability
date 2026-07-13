@@ -1,1 +1,0 @@
-Delete this entire line of text on line 699：int frequencyThreshold = freqPerItem_inSort[int(transNumReduced - 1)];
